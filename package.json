@@ -1,19 +1,15 @@
 {
-  "name": "node_ex_01",
-  "author": "vijay",
-  "version": "1.0.0",
-  "description": "to create a new package json",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/vijayaganapathy/NODE_EX_01.git"
-  },
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/vijayaganapathy/NODE_EX_01/issues"
-  },
-  "homepage": "https://github.com/vijayaganapathy/NODE_EX_01#readme"
+	"name": "fcc-learn-npm-package-json",
+	"author": "Vijayaganapathy",
+	"dependencies": {
+		"express": "^4.14.0"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://idontknow/todo.git"
+	}
 }
