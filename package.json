@@ -1,5 +1,6 @@
 {
   "name": "node_ex_01",
+  "author": "vijay",
   "version": "1.0.0",
   "description": "to create a new package json",
   "main": "index.js",
@@ -10,7 +11,6 @@
     "type": "git",
     "url": "git+https://github.com/vijayaganapathy/NODE_EX_01.git"
   },
-  "author": "vijay",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/vijayaganapathy/NODE_EX_01/issues"
