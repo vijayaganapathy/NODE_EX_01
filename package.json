@@ -1,0 +1,19 @@
+{
+  "name": "node_ex_01",
+  "version": "1.0.0",
+  "description": "to create a new package json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayaganapathy/NODE_EX_01.git"
+  },
+  "author": "vijay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijayaganapathy/NODE_EX_01/issues"
+  },
+  "homepage": "https://github.com/vijayaganapathy/NODE_EX_01#readme"
+}
